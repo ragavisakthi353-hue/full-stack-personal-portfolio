@@ -6,7 +6,6 @@ This is a full-stack portfolio project built with the MERN stack (MongoDB, Expre
 
 The repository is organized into three main directories to separate the frontend client, backend server, and generic configuration.
 
-```text
 portfolio-project/
 ├── backend/                  # Node.js + Express backend
 │   ├── controllers/          # Request handlers for API endpoints
